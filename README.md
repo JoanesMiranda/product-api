@@ -1,11 +1,11 @@
-#product-api - API de produtos com Nodejs
+# product-api - API de produtos com Nodejs
 
 Operações HTTP atendidas: **GET, POST, PUT e DELETE.**
 
 #### CRUD 
 ACTION | RESULT | STATUS CODE
 ----- | ---- | ----
-`GET /api/products` | Retorna lista com todos os produtos |200
+`GET /api/products` | Retorna uma lista com todos os produtos |200
 `GET /api/products/:id` | Retorna um produto especifico  | 200
 `POST /api/products` | Insere um novo produto  | 200
 `PUT /api/products/:id` | Atualiza um produto especifico | 200
