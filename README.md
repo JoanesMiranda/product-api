@@ -13,7 +13,7 @@ ACTION | RESULT | STATUS CODE
 
 > Os dados são retornados no formato json.
 Exemplo do formato retornado:
-`GET /api/tasks/5915e7b1291d8a147874854e`
+`GET /api/products/5d47c187672aac0cc4be615f`
 
 ```json
 {
